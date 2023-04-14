@@ -1,0 +1,1 @@
+./nssm "DialogBlockingServiceWin32" "C:\Users\PC\AppData\Local\Programs\Python\Python311\python.exe" "C:\Users\PC\AppData\Local\Programs\Python\Python311\Scripts\watchmedo.py"
